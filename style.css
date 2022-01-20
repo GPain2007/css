@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+p {
+    color:red;
+}
+p {
+    color:blue;
+}
+p {
+    color:green;
+}
+p {
+    font-size: large;
+}
+p {
+    font-size: small;
+}
+p {
+    text-align: center;
+}
+p {
+    font-style: bold;
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.styledFont {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium; color:blue; font-style: italic;
+}
+#styledImage {
+    border: 50px solid blue; border-style: double; 
+}
